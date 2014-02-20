@@ -1,0 +1,13 @@
+{
+  "name": "apily-view",
+  "description": "view component",
+  "version": "0.0.2",
+  "keywords": [
+    "view",
+    "element"
+  ],
+  "dependencies": {
+    "enricomarino-element": "git://github.com/npmcomponent/enricomarino-element.git"
+  },
+  "license": "MIT"
+}

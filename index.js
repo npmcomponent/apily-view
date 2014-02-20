@@ -16,7 +16,7 @@ module.exports = create_view;
  * Component dependencies
  */
 
-var element = require('element')();
+var element = require('enricomarino-element')();
 
 /**
  * view
